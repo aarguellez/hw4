@@ -1,5 +1,5 @@
 {
-  "name": "hw4",
+  "name": "hw3",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,16 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aarguellez/hw4.git"
+    "url": "git+https://github.com/aarguellez/hw3.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/aarguellez/hw4/issues"
+    "url": "https://github.com/aarguellez/hw3/issues"
   },
-  "homepage": "https://github.com/aarguellez/hw4#readme",
+  "homepage": "https://github.com/aarguellez/hw3#readme",
   "dependencies": {
-    "express": "^4.16.3"
+    "express": "^4.16.2"
+  },
+  "engines": {
+  "node": "9.4.0"
   }
 }
